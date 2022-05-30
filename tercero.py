@@ -1,1 +1,1 @@
-print("Hoy se garcha")
+print("Hoy se juega")
